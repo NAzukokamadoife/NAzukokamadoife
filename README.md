@@ -1,10 +1,7 @@
 - 👋 Hi, I’m ifemayowa
 - 👀 I’m interested in Software Testing and Quality Assurance 
-- 🌱 I’m currently learning CI/CD
-- 💞️ I’m looking to collaborate on more ways to implement CI/CD into software testing
+- 🌱 I’m currently learning CI/CD and DevOps
+- 💞️ I’m looking to collaborate on more ways to implement CI/CD into software testing and ultimately be a DevOps engineer
 - 📫 How to reach me omojowoifemayowa@gmail.com
 
-<!---
-NAzukokamadoife/NAzukokamadoife is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
